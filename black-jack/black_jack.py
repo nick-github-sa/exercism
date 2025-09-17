@@ -1,7 +1,7 @@
 """Functions to help play and score a game of blackjack.
 
 How to play blackjack:    https://bicyclecards.com/how-to-play/blackjack/
-"Standard" playing cards: https://en.wikipedia.org/wiki/Standard_52-card_deck
+"Standard Global" playing cards: https://en.wikipedia.org/wiki/Standard_52-card_deck
 """
 
 
